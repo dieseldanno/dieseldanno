@@ -1,6 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Danno!</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
+
 - 👨‍💻 All of my projects are available at [https://www.dannotharmarajah.com/](https://www.dannotharmarajah.com/)
 
 - 📫 How to reach me **danno.tharmarajah@gmail.com**
